@@ -1,0 +1,14 @@
+Uji,Metode,Statistik,p-value,Kesimpulan
+Normalitas,Jarque-Bera,49.785,0.0,Tidak normal
+Normalitas,Kolmogorov-Smirnov,0.178,0.0001,Tidak normal
+Normalitas,Shapiro-Wilk,0.863,0.0,Tidak normal
+Multikolinearitas,VIF X1,1.42,,OK
+Multikolinearitas,VIF X2,1.03,,OK
+Multikolinearitas,VIF X3,1.004,,OK
+Multikolinearitas,VIF X4,1.055,,OK
+Multikolinearitas,VIF X5,1.355,,OK
+Heteroskedastisitas,Breusch-Pagan,8.531,0.1293,Bebas
+Heteroskedastisitas,White,30.062,0.051,Bebas
+Heteroskedastisitas,Glejser,2.039,0.0761,Bebas
+Autokorelasi,Durbin-Watson,1.221,,DW=1.221
+Autokorelasi,Breusch-Godfrey,24.772,0.0,Ada autokorelasi
