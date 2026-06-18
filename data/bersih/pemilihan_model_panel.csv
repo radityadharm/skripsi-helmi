@@ -1,0 +1,5 @@
+Uji,H0,H1,Statistik,p-value,Keputusan
+Chow,Common Effect,Fixed Effect,4.2353,0.0,Fixed Effect
+Hausman,Random Effect,Fixed Effect,3.1589,0.6755,Random Effect
+Lagrange Multiplier,Common Effect,Random Effect,42.2484,0.0,Random Effect
+,,,,,MODEL TERPILIH: Random Effect Model (REM)
