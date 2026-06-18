@@ -1,0 +1,10 @@
+Variabel,Koefisien,Std.Error,t-stat,p-value,Kesimpulan,Arah
+Konstanta,0.1782,0.0459,3.881,0.0002,,
+X1 Kepemilikan Institusional,0.0256,0.0264,0.97,0.3334,Tidak signifikan,positif
+X2 Komite Audit,0.0087,0.0077,1.134,0.2586,Tidak signifikan,positif
+X3 Dewan Komisaris Independen,0.0523,0.0477,1.096,0.2749,Tidak signifikan,positif
+X4 Keberagaman Gender,-0.0367,0.0284,-1.295,0.1974,Tidak signifikan,negatif
+X5 Kepemilikan Manajerial,-0.0047,0.0385,-0.122,0.9031,Tidak signifikan,negatif
+
+F-statistic (robust),0.7237,p-value,0.6066,,
+R-squared,0.0161,R-squared overall,0.0266,,
