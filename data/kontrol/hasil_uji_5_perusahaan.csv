@@ -1,0 +1,16 @@
+Kode,Tahun,Total Aset,Total Liabilitas,Total Ekuitas,Validasi Laba,Presisi,Catatan
+ADES,2022,1645582000000,310746000000,1334836000000,Cocok,Penuh (jutaan),Neraca seimbang sempurna
+ADES,2023,2085182000000,355374000000,1729808000000,Cocok,Penuh (jutaan),Neraca seimbang sempurna
+ADES,2024,2696874000000,438373000000,2258501000000,Cocok,Penuh (jutaan),Neraca seimbang sempurna
+AALI,2022,29249236000000,7006119000000,22243117000000,Cocok,Penuh (jutaan),OK
+AALI,2023,28846243000000,6280237000000,22566006000000,Cocok,Penuh (jutaan),OK
+AALI,2024,28793000000000,5591000000000,23202000000000,Cocok,Hanya miliaran,2024 belum presisi penuh
+AMRT,2022,30740000000000,19270000000000,11470000000000,Cocok,Hanya triliunan,Dibulatkan kasar
+AMRT,2023,34240000000000,18540000000000,15700000000000,Cocok,Hanya triliunan,Dibulatkan kasar
+AMRT,2024,38790000000000,21100000000000,17690000000000,Cocok,Hanya triliunan,Dibulatkan kasar
+ANJT,2022,USD 602.6 juta,USD 178.5 juta,USD 424.1 juta,Tidak pasti,USD (bukan IDR),Lapor dalam USD; perlu konversi
+ANJT,2023,USD 580.7 juta,USD 188.7 juta,USD 392.0 juta,Tidak pasti,USD (bukan IDR),Lapor dalam USD; perlu konversi
+ANJT,2024,USD 573.2 juta,USD 181.3 juta,USD 391.9 juta,Tidak pasti,USD (bukan IDR),Lapor dalam USD; perlu konversi
+BISI,2022,TIDAK DITEMUKAN,TIDAK DITEMUKAN,TIDAK DITEMUKAN,Laba cocok,Gagal,Sumber saling bertentangan
+BISI,2023,TIDAK DITEMUKAN,TIDAK DITEMUKAN,TIDAK DITEMUKAN,Laba cocok,Gagal,Sumber saling bertentangan
+BISI,2024,TIDAK DITEMUKAN,TIDAK DITEMUKAN,TIDAK DITEMUKAN,Laba cocok,Gagal,Sumber saling bertentangan
